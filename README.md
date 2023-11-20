@@ -79,21 +79,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
       />
       <img src="https://streak-stats.demolab.com/?user=kushkaushik" />
   </picture>
-  
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/kushkaushik/kushkaushik/blob/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github.com/kushkaushik/kushkaushik/blob/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    width="100%"
-    height="auto"
-    alt="github contribution grid snake animation"
-    src="https://github.com/kushkaushik/kushkaushik/blob/output/github-contribution-grid-snake.svg"
-  />
-</picture>
