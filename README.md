@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/huzaif-malik-8ab2b5232/">
+  <a href="https://www.linkedin.com/in/kush-kaushik-130132185/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/huzaifmalik7860/">
+  <a href="https://www.instagram.com/kush.kaushik.52/
     <img src="https://img.shields.io/badge/Instagram-600?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/huzaifmalik7860">
@@ -22,7 +22,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
